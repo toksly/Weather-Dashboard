@@ -12,7 +12,7 @@ In building this app, I used HTML and CSS which were powered by my Javascript co
 
 <strong>Installation</strong>
 
-This project does not need any installation,rather it is currently hosted on github, which can be accessed using by clicking on the link below https://toksly.github.io/Code-quiz
+This project does not need any installation,rather it is currently hosted on github, which can be accessed using by clicking on the link below https://toksly.github.io/weather-dashboard
 
 <strong>Usage</strong>
 
