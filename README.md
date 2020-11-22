@@ -8,7 +8,7 @@ The name of this app is <i>Weather-Dashboard</i> it is designed to use to make w
 This project is aimed at developing an application that will help people accurately make weather forcast of any city in the weather API database. it accurately measures Tempeture, Humidity, Wind Speed, and UV-index for a city for five consecutive days.
 
 <strong>Technology used</strong>
-In building this app, I used HTML and CSS which was powered by Javascript. I also used the open weather api
+In building this app, I used HTML and CSS which were powered by Javascript and jQuery. I also used the open weather api
 
 <strong>Installation</strong>
 
