@@ -13,7 +13,7 @@ In building this app, I used HTML and CSS which were powered by Javascript and j
 <strong>Installation</strong>
 
 This project does not need any installation,rather it is currently hosted on github, which can be accessed using by clicking on the link below 
-https://toksly.github.io/weather-dashboard
+https://toksly.github.io/Weather-Dashboard/
 <strong>Usage</strong>
 
 The page is simple, clean, and easy to use and undertand. It allows the user to be able to search for any city buy entering the name of the city in the search window and clicking the search button.This brings out the current weather condition of the city and a five day forcast of the city that include the temperature, humidity, wind speed, and UV-index.
