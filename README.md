@@ -4,6 +4,7 @@ The name of this app is <i>Weather-Dashboard</i> it is designed to use to make w
 
 <strong>Image</strong>
 ![](images/screen shot.png)
+
 <strong>Description</strong>
 This project is aimed at developing an application that will help people accurately make weather forcast of any city in the weather API database. it accurately measures Tempeture, Humidity, Wind Speed, and UV-index for a city for five consecutive days.
 
