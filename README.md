@@ -36,7 +36,7 @@ https://toksly.github.io/Weather-Dashboard/
 
 To use this application, simply follow the link to the deployed application. Enter the name of the city you want to know the weather condition and click the search button.
 
-[Back to Table of contrents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
