@@ -1,23 +1,64 @@
-<strong>Weather-Dashboard</strong>
+# Weather-Dashboard
+![Screenshot of tech-blog](images/screenShot.png)
 
-The name of this app is <i>Weather-Dashboard</i> it is designed to use to make weather forcast for different cities, up to five days forcast at a time.
+## Description
 
-<strong>Image</strong>
-![](images/screen shot.png)
-<strong>Description</strong>
-This project is aimed at developing an application that will help people accurately make weather forcast of any city in the weather API database. it accurately measures Tempeture, Humidity, Wind Speed, and UV-index for a city for five consecutive days.
+This application allows people to accurately make weather forcast of any city in the weather API database. It can measure and predict the Tempeture, Humidity, Wind Speed, and UV-index of a city for five consecutive days.
 
-<strong>Technology used</strong>
-In building this app, I used HTML and CSS which were powered by Javascript and jQuery. I also used the open weather api
+## Table of Contents
 
-<strong>Installation</strong>
+- [Website](#website)
+- [Built with](#built-with)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Acknowledgements](#acknowledgements)
 
-This project does not need any installation,rather it is currently hosted on github, which can be accessed using by clicking on the link below 
+---
+
+## Website
+
 https://toksly.github.io/Weather-Dashboard/
-<strong>Usage</strong>
 
-The page is simple, clean, and easy to use and undertand. It allows the user to be able to search for any city buy entering the name of the city in the search window and clicking the search button.This brings out the current weather condition of the city and a five day forcast of the city that include the temperature, humidity, wind speed, and UV-index.
+---
 
-<strong>Support and Contribution</strong>
-https://api.openweathermap.org/data/2.5/weather?q
-If you have any question or want to see our Repo, please email me at nwizutoks@gmail.com
+## Built with
+
+- Javascript
+- HTML
+- CSS
+
+
+[Back to Table of Contents](#table-of-contents)
+
+---
+
+## Usage
+
+To use this application, simply follow the link to the deployed application. Enter the name of the city you want to know the weather condition and click the search button.
+
+[Back to Table of contrents](#table-of-contents)
+
+---
+
+## Contributors
+
+---
+---
+
+Sylvester Nwizu
+
+---
+---
+
+[Back to Table of Contents](#table-of-contents)
+
+---
+
+## Acknowledgements
+
+- [open weather](https://openweathermap.org/)
+- [jQuery](https://jquery.com/)
+
+---
+
+[Back to table of Contents](#table-of-contents)
