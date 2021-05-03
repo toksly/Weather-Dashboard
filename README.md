@@ -1,4 +1,5 @@
 # Weather-Dashboard
+
 ![Screenshot of tech-blog](images/screenShot.png)
 
 ## Description
@@ -27,7 +28,6 @@ https://toksly.github.io/Weather-Dashboard/
 - HTML
 - CSS
 
-
 [Back to Table of Contents](#table-of-contents)
 
 ---
@@ -43,11 +43,13 @@ To use this application, simply follow the link to the deployed application. Ent
 ## Contributors
 
 ---
+
 ---
 
 Sylvester Nwizu
 
 ---
+
 ---
 
 [Back to Table of Contents](#table-of-contents)
