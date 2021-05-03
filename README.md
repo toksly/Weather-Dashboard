@@ -9,7 +9,7 @@ This application allows people to accurately make weather forcast of any city in
 
 - [Website](#website)
 - [Built with](#built-with)
-- [Usage](#usage)
+- [Usage](#usage
 - [Contributors](#contributors)
 - [Acknowledgements](#acknowledgements)
 
